@@ -9,6 +9,17 @@
 
 ### Hi there 👋 Welcome to my profile
 
+![](./images/badge/javascript.png)
+![](./images/badge/vuejs.png)
+![](./images/badge/nodejs.png)
+![](./images/badge/flutter.png)
+![](./images/badge/php.png)
+![](./images/badge/firebase.png)
+![](./images/badge/mongodb.png)
+![](./images/badge/oracle.png)
+![](./images/badge/postgre.png)
+![](./images/badge/mysql.png)
+
 <!--
 **luizschmitt/luizschmitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
