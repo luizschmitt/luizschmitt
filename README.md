@@ -12,4 +12,5 @@
 - 🔭 I’m currently working on something awesome!
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about anything related to Javascript and PHP
+- ⚡ Technologies: PHP, Vue.js, React, Node.js, Express, Flutter
 - 📫 How to reach me: @luizschmitt
