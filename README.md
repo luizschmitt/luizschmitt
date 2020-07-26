@@ -17,9 +17,3 @@
   📌  Living in <b>Manaus</b>, <b>Amazonas</b>, <b>Brazil</b>  
 </h5>
 <h5 align="center">💼 FullStack Developer at @sistemaspmm </h5>
-
-
-- 🔭 I’m currently working on something awesome!
-- 🌱 I’m currently learning Flutter
-- 💬 Ask me about anything related to Javascript and PHP
-- 📫 How to reach me: @luizschmitt
