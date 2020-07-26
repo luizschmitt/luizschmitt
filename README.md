@@ -7,10 +7,19 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/luizschmitt/)](https://www.instagram.com/luizschmitt/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/lzschmitt)](https://www.facebook.com/lzschmitt)
 
-### Hi there 👋 Welcome to my profile
+<h4 align="center">
+  Hi there 👋 Welcome to my profile
+</h4>
+<p align="center">
+  PHP | JavaScript | Node.js | ReactJS | Vue.JS | Flutter | HTML | CSS | Git | Linux
+</p>
+<h5 align="center">
+  📌  Living in <b>Manaus</b>, <b>Amazonas</b>, <b>Brazil</b>  
+</h5>
+<h5 align="center">💼 FullStack Developer at @sistemaspmm </h5>
+
 
 - 🔭 I’m currently working on something awesome!
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about anything related to Javascript and PHP
-- ⚡ Technologies: PHP, Vue.js, React, Node.js, Express, Flutter
 - 📫 How to reach me: @luizschmitt
