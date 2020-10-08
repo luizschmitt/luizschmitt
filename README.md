@@ -11,7 +11,7 @@
   Hi there 👋 Welcome to my profile
 </h4>
 <p align="center">
-  PHP | JavaScript | Node.js | ReactJS | Vue.JS | Flutter | HTML | CSS | Git | Linux
+  PHP | JavaScript | Node.js | ReactJS | Vue.JS | Flutter | HTML | CSS | Git | Linux | Docker | Kubernetes | Rancher
 </p>
 <h5 align="center">
   📌  Living in <b>Manaus</b>, <b>Amazonas</b>, <b>Brazil</b>  
